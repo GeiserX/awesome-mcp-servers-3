@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 294 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 295 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -1541,6 +1541,17 @@ Project management for teams and their AI agents. Agents join as named members.
 - Tags: project-management, tasks, agents, remote
 - Category: Communication and Productivity
 - Streamable HTTP endpoint: https://taskfolk.ai/api/mcp/v1
+
+### Telegram Archive MCP Server
+
+Search messages, browse chats and read archived Telegram history from a self-hosted Telegram-Archive instance.
+
+- URL: https://github.com/GeiserX/telegram-archive-mcp
+- Language: Go
+- Provider: Telegram Archive
+- Official: yes
+- Tags: telegram, chat, archives, self-hosted
+- Category: Communication and Productivity
 
 ### There There
 

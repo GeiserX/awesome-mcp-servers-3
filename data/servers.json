@@ -1313,6 +1313,21 @@
     "official": false
   },
   {
+    "name": "Telegram Archive MCP Server",
+    "url": "https://github.com/GeiserX/telegram-archive-mcp",
+    "description": "Search messages, browse chats and read archived Telegram history from a self-hosted Telegram-Archive instance.",
+    "category": "communication-and-productivity",
+    "language": "Go",
+    "provider": "Telegram Archive",
+    "tags": [
+      "telegram",
+      "chat",
+      "archives",
+      "self-hosted"
+    ],
+    "official": true
+  },
+  {
     "name": "Gmail MCP Server",
     "url": "https://github.com/GongRzhe/Gmail-MCP-Server",
     "description": "Search, read, and compose Gmail messages from MCP clients.",
